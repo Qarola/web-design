@@ -10,6 +10,7 @@ Desktop: 1440px
 
 
 
+![web-design_1440px_](https://user-images.githubusercontent.com/67078790/205717782-b2ac82ea-49a8-48bc-ad97-aa15c0e32ddf.jpg)
 
 ```sh
 Mobile: 375px
@@ -17,6 +18,8 @@ Mobile: 375px
 ```
 ![reto-web-design](images/mobile-design-375px_.png)
 
+
+![mobile-design-375px_](https://user-images.githubusercontent.com/67078790/205717847-f4fd8402-f1f9-426d-9fdc-d07a03f95c55.jpg)
 
 
 
